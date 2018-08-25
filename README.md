@@ -1,3 +1,3 @@
 # Todoey
 
-### Simple a todo list application using Sqlite as database
+### Simple a todo list application using Realm for the backend application
